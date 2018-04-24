@@ -5,3 +5,5 @@
 * Staatsangehörigkeit: Deutsch 
 
 * Wohnort: Rötenbach 
+
+* Studium: Hochschule Furtwangen

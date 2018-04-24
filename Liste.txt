@@ -1,4 +1,6 @@
-Einkaufsliste
-Apfel
-Birne
-Eier
+#Einkaufsliste
+
+* Apfel
+* Birne
+* Eier
+* BIER
