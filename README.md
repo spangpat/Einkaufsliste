@@ -1,8 +1,4 @@
-# Einkaufsliste 
-Eine tolle Einkaufsliste!!! 
-Das ist eine Readme Datei :) 
-
-**Lebenslauf** 
+#Lebenslauf
 
 * Geboren: Am ersten Tag 
 
