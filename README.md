@@ -8,4 +8,4 @@
 
 * Studium: Hochschule Furtwangen
 
-![Hier sollte ein Bild sein](https://www.welt.de/sport/fussball/article164835993/Ibrahimovic-denkwuerdiges-Video-vor-dem-Finale.html#cs-RSC-Anderlecht-Manchester-United.jpg "Das bin ich")
+![Hier sollte ein Bild sein](https://bilder.bild.de/fotos/moeglicher-job-bei-rosneft-ich-finde-das-was-herr-schoeder-macht-nicht-in-ordnung-52937990/Bild/1.bild.jpg "Das bin ich")
