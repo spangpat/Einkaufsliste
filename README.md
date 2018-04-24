@@ -6,6 +6,6 @@ Das ist eine Readme Datei :)
 
 * Geboren: Am ersten Tag 
 
-* Staatsangehörigkeit: Detsch 
+* Staatsangehörigkeit: Deutsch 
 
 * Wohnort: Rötenbach 
