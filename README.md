@@ -2,5 +2,4 @@
 Eine tolle Einkaufsliste!!!
 Das ist eine Readme Datei :)
 **Lebenslauf**
-*Geboren: Am ersten Tag
-*Staatsangehörigkeit: Detsch
+Geboren: 01.03.1997
