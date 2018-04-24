@@ -8,4 +8,4 @@
 
 * Studium: Hochschule Furtwangen
 
-* ![Alternativtext](https://www.sportschau.de/fussball/international/ibrahimovic-wechsel-los-angeles-100.html "Das bin ich")
+* ![Alternativtext](https://www.welt.de/sport/fussball/article164835993/Ibrahimovic-denkwuerdiges-Video-vor-dem-Finale.html#cs-RSC-Anderlecht-Manchester-United.jpg "Das bin ich")
